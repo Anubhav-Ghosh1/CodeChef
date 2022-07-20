@@ -1,3 +1,4 @@
+Problem Statement ----> https://www.codechef.com/submit/SST?tab=statement
 #include <iostream>
 using namespace std;
 
